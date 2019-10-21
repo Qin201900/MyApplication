@@ -1,10 +1,22 @@
 <resources>
-    <string name="app_name" translatable="false">My Application</string>
-    <string name="btn_ok" translatable="false">OK</string>
-    <string name="btn2" translatable="false">示例</string>
-    <string name="btn3" translatable="false">登陆</string>
-    <string name="text" translatable="false">Welcome</string>
-    <string name="text2" translatable="false">Hello</string>
-    <string name="happy" >happy birthday to you!</string>
+    <string name="app_name" translatable="false">MyApplication</string>
+    <string name="number" translatable="false">Hello</string>
+    <string name="dollar" translatable="false">DOLLAR</string>
+    <string name="euro" translatable="false">EURO</string>
+    <string name="won" translatable="false">WON</string>
+    <string name="config" translatable="false">CONFIG</string>
+    <string name="save" translatable="false">SAVE</string>
+    <string name="reset" translatable="false">RESET</string>
+    <string name="res_txt" translatable="false">Result:</string>
+    <string name="teamNamea" translatable="false">TeamA</string>
+    <string name="teamNameb" translatable="false">TeamB</string>
+    <string name="add2score" translatable="false">+2 POINTS</string>
+    <string name="add3score" translatable="false">+3 POINTS</string>
+    <string name="add1score" translatable="false">+1 POINT</string>
+    <string name="rate" translatable="false">RATE</string>
+    <string name="money" translatable="false">MONEY</string>
+    <string name="menu_setting" translatable="false">Setting</string>
+    <string name="label_open_list" translatable="false">OpenList</string>
+    <string name="happy">Happy Birthday to you!</string>
 
 </resources>
