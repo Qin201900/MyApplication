@@ -18,5 +18,8 @@
     <string name="menu_setting" translatable="false">Setting</string>
     <string name="label_open_list" translatable="false">OpenList</string>
     <string name="happy">Happy Birthday to you!</string>
+    <string name="rdo_home_label" translatable="false">首页</string>
+    <string name="rdo_func_label" translatable="false">功能</string>
+    <string name="rdo_setting_label" translatable="false">设置</string>
 
 </resources>

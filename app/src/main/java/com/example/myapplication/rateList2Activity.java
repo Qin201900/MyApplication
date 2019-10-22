@@ -58,8 +58,6 @@ public class rateList2Activity extends ListActivity implements Runnable, Adapter
     }
 
     public void run(){
-
-
         List<HashMap<String,String>> list1=new ArrayList<HashMap<String,String>>();
         try{
             String url="http://www.usd-cny.com/";
@@ -84,9 +82,7 @@ public class rateList2Activity extends ListActivity implements Runnable, Adapter
 
             }
         }catch (IOException e){
-
         }
-
         //获取message对象，用于传递给主线程
         Message msg=handler.obtainMessage(5);
         msg.obj=list1;
